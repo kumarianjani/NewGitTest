@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MyPackage</id>
+    <version>1.0.0</version>
+    <authors>kanjani</authors>
+    <owners>kanjani</owners>
+    <licenseUrl>https://github.com/HoussemDellai/social-media-templates</licenseUrl>
+    <projectUrl>https://github.com/HoussemDellai/social-media-templates</projectUrl>
+    <iconUrl>https://github.com/HoussemDellai/social-media-templates/blob/master/Icons/plugin.youtube.png?raw=true</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>My Package description</description>
+    <releaseNotes>Summary of changes made in this release of the my package.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>my package Tag1 Tag2</tags>
+    <dependencies>
+      <dependency id="Microsoft.Net.Http" version="2.2.29" />
+     <dependency id="Newtonsoft.Json" version="8.0.3" />
+    </dependencies>
+  </metadata>
+</package>
